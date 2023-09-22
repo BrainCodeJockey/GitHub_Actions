@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b570ff51-bd46-48a8-b9f7-bca9df5acf88" name="Changes" comment="Big Bang">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
       <workItem from="1695391769491" duration="317000" />
       <workItem from="1695392099087" duration="100000" />
       <workItem from="1695392596340" duration="399000" />
-      <workItem from="1695392996368" duration="232000" />
+      <workItem from="1695392996368" duration="448000" />
     </task>
     <task id="LOCAL-00001" summary="Big Bang">
       <option name="closed" value="true" />
@@ -66,7 +67,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695391984424</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Big Bang">
+      <option name="closed" value="true" />
+      <created>1695393342861</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695393342861</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
